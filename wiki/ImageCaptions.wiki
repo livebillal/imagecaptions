@@ -11,6 +11,8 @@ I have tested it using Firefox 2.0.0.14, IE 7, Opera 9.50 beta and safari 3.1.1.
 
 you can view a [http://homegel.co.za/imagecaption/ Demo] here which has various examples.
 
+I'm still new at this so any feedback will be most welcome as well as any advice on how to improve the code. I do have some ideas already but will love the feedback.
+
 Sample Code:
 
 {{{
