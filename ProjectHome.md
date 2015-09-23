@@ -1,0 +1,1 @@
+Adds dynamic captions to images using jQuery and EasIng plugin.
